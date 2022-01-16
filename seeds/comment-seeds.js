@@ -2,12 +2,12 @@ const { Comment } = require('../models');
 
 const commentdata = [
     {
-        comment_text: 'Hello Stuff.',
+        comment_content: 'Hello Stuff.',
         user_id: 1,
         post_id: 2
     },
     {
-        comment_text: 'Hello Stuff Again.',
+        comment_content: 'Hello Stuff Again.',
         user_id: 1,
         post_id: 2
     }
