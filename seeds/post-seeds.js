@@ -3,12 +3,12 @@ const { Post } = require('../models');
 const postdata = [
   {
     title: 'Hello World',
-    post_url: 'https://buzzfeed.com/in/imperdiet/et/commodo/vulputate.png',
+    post_content: 'Hello there',
     user_id: 1
   },
   {
     title: 'Blah Blah Blah',
-    post_url: 'https://nasa.gov/donec.json',
+    post_content: 'This is a test',
     user_id: 2
   },
 ];
