@@ -4,7 +4,7 @@
 https://intense-coast-68796.herokuapp.com/
 
 ## Description
-The purpose of this project was to create a tech blogging website.
+The purpose of this project was to create a CMS style tech blogging website. Once users have created an account, they can add articles and blog posts to the website. They are also able to add comments to posts that other people make.
 
 ## Table Of Contents
 * [Description](#description)
