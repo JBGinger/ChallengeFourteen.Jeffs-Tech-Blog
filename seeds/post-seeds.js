@@ -2,13 +2,13 @@ const { Post } = require('../models');
 
 const postdata = [
   {
-    title: 'Hello World',
-    post_content: 'Hello there',
+    title: 'Python Monty',
+    post_content: 'All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?',
     user_id: 1
   },
   {
-    title: 'Blah Blah Blah',
-    post_content: 'This is a test',
+    title: 'Monty Python',
+    post_content: 'Listen, strange women lyin in ponds distributin swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.',
     user_id: 2
   },
 ];
