@@ -13,6 +13,7 @@ The purpose of this project was to create a CMS style tech blogging website. Onc
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Credit](#credit)
+* [Screenshots](#screenshots)
 * [Questions](#questions)
 * [License](#license)
 
