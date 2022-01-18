@@ -1,5 +1,8 @@
 # Jeff's Tech Blog
 
+## Heroku Deployment
+https://intense-coast-68796.herokuapp.com/
+
 ## Description
 The purpose of this project was to create a tech blogging website.
 
@@ -28,6 +31,18 @@ There are no tests for this project.
 ## Credit
 Created By: Jeffrey Brittingham  
 Creator Github Profile: https://github.com/JBGinger
+
+## Screenshots
+
+### Homepage:
+![Alt text](screenshots/homepage_screenshot.png)
+
+### Dashboard:
+![Alt text](screenshots/dashboard_screenshot.png)
+
+### Edit Post:
+![Alt text](screenshots/edit_post_screenshot.png)
+
 
 ## Questions
 Have any questions about this project? Please send me an email at jeff.brittingham@protonmail.com.
